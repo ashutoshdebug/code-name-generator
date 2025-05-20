@@ -3,4 +3,4 @@ No library or extra installation requires, just download python and run it.
 
 Can be run on any version of python.
 
-Enjou :)
+Enjoy :)
